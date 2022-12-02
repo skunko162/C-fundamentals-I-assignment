@@ -1,0 +1,15 @@
+/Users/stevenkelly/Desktop/Coding Dojo/C#/PracticeConditionals/PracticeConditionals/bin/Debug/net6.0/PracticeConditionals
+/Users/stevenkelly/Desktop/Coding Dojo/C#/PracticeConditionals/PracticeConditionals/bin/Debug/net6.0/PracticeConditionals.deps.json
+/Users/stevenkelly/Desktop/Coding Dojo/C#/PracticeConditionals/PracticeConditionals/bin/Debug/net6.0/PracticeConditionals.runtimeconfig.json
+/Users/stevenkelly/Desktop/Coding Dojo/C#/PracticeConditionals/PracticeConditionals/bin/Debug/net6.0/PracticeConditionals.dll
+/Users/stevenkelly/Desktop/Coding Dojo/C#/PracticeConditionals/PracticeConditionals/bin/Debug/net6.0/PracticeConditionals.pdb
+/Users/stevenkelly/Desktop/Coding Dojo/C#/PracticeConditionals/PracticeConditionals/obj/Debug/net6.0/PracticeConditionals.csproj.AssemblyReference.cache
+/Users/stevenkelly/Desktop/Coding Dojo/C#/PracticeConditionals/PracticeConditionals/obj/Debug/net6.0/PracticeConditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenkelly/Desktop/Coding Dojo/C#/PracticeConditionals/PracticeConditionals/obj/Debug/net6.0/PracticeConditionals.AssemblyInfoInputs.cache
+/Users/stevenkelly/Desktop/Coding Dojo/C#/PracticeConditionals/PracticeConditionals/obj/Debug/net6.0/PracticeConditionals.AssemblyInfo.cs
+/Users/stevenkelly/Desktop/Coding Dojo/C#/PracticeConditionals/PracticeConditionals/obj/Debug/net6.0/PracticeConditionals.csproj.CoreCompileInputs.cache
+/Users/stevenkelly/Desktop/Coding Dojo/C#/PracticeConditionals/PracticeConditionals/obj/Debug/net6.0/PracticeConditionals.dll
+/Users/stevenkelly/Desktop/Coding Dojo/C#/PracticeConditionals/PracticeConditionals/obj/Debug/net6.0/refint/PracticeConditionals.dll
+/Users/stevenkelly/Desktop/Coding Dojo/C#/PracticeConditionals/PracticeConditionals/obj/Debug/net6.0/PracticeConditionals.pdb
+/Users/stevenkelly/Desktop/Coding Dojo/C#/PracticeConditionals/PracticeConditionals/obj/Debug/net6.0/PracticeConditionals.genruntimeconfig.cache
+/Users/stevenkelly/Desktop/Coding Dojo/C#/PracticeConditionals/PracticeConditionals/obj/Debug/net6.0/ref/PracticeConditionals.dll
