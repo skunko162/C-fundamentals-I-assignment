@@ -1,0 +1,15 @@
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/Puzzles/bin/Debug/net6.0/Puzzles
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/Puzzles/bin/Debug/net6.0/Puzzles.deps.json
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/Puzzles/bin/Debug/net6.0/Puzzles.runtimeconfig.json
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/Puzzles/bin/Debug/net6.0/Puzzles.dll
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/Puzzles/bin/Debug/net6.0/Puzzles.pdb
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/Puzzles/obj/Debug/net6.0/Puzzles.csproj.AssemblyReference.cache
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/Puzzles/obj/Debug/net6.0/Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/Puzzles/obj/Debug/net6.0/Puzzles.AssemblyInfoInputs.cache
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/Puzzles/obj/Debug/net6.0/Puzzles.AssemblyInfo.cs
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/Puzzles/obj/Debug/net6.0/Puzzles.csproj.CoreCompileInputs.cache
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/Puzzles/obj/Debug/net6.0/Puzzles.dll
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/Puzzles/obj/Debug/net6.0/refint/Puzzles.dll
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/Puzzles/obj/Debug/net6.0/Puzzles.pdb
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/Puzzles/obj/Debug/net6.0/Puzzles.genruntimeconfig.cache
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/Puzzles/obj/Debug/net6.0/ref/Puzzles.dll
