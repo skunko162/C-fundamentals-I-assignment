@@ -1,0 +1,15 @@
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.csproj.AssemblyReference.cache
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.AssemblyInfoInputs.cache
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.AssemblyInfo.cs
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.csproj.CoreCompileInputs.cache
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsIII/bin/Debug/net6.0/FundamentalsIII
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsIII/bin/Debug/net6.0/FundamentalsIII.deps.json
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsIII/bin/Debug/net6.0/FundamentalsIII.runtimeconfig.json
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsIII/bin/Debug/net6.0/FundamentalsIII.dll
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsIII/bin/Debug/net6.0/FundamentalsIII.pdb
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.dll
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsIII/obj/Debug/net6.0/refint/FundamentalsIII.dll
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.pdb
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.genruntimeconfig.cache
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsIII/obj/Debug/net6.0/ref/FundamentalsIII.dll
