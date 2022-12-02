@@ -1,0 +1,15 @@
+/Users/stevenkelly/Desktop/Coding Dojo/C#/ChkKnowledgeArrays/bin/Debug/net6.0/ChkKnowledgeArrays
+/Users/stevenkelly/Desktop/Coding Dojo/C#/ChkKnowledgeArrays/bin/Debug/net6.0/ChkKnowledgeArrays.deps.json
+/Users/stevenkelly/Desktop/Coding Dojo/C#/ChkKnowledgeArrays/bin/Debug/net6.0/ChkKnowledgeArrays.runtimeconfig.json
+/Users/stevenkelly/Desktop/Coding Dojo/C#/ChkKnowledgeArrays/bin/Debug/net6.0/ChkKnowledgeArrays.dll
+/Users/stevenkelly/Desktop/Coding Dojo/C#/ChkKnowledgeArrays/bin/Debug/net6.0/ChkKnowledgeArrays.pdb
+/Users/stevenkelly/Desktop/Coding Dojo/C#/ChkKnowledgeArrays/obj/Debug/net6.0/ChkKnowledgeArrays.csproj.AssemblyReference.cache
+/Users/stevenkelly/Desktop/Coding Dojo/C#/ChkKnowledgeArrays/obj/Debug/net6.0/ChkKnowledgeArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenkelly/Desktop/Coding Dojo/C#/ChkKnowledgeArrays/obj/Debug/net6.0/ChkKnowledgeArrays.AssemblyInfoInputs.cache
+/Users/stevenkelly/Desktop/Coding Dojo/C#/ChkKnowledgeArrays/obj/Debug/net6.0/ChkKnowledgeArrays.AssemblyInfo.cs
+/Users/stevenkelly/Desktop/Coding Dojo/C#/ChkKnowledgeArrays/obj/Debug/net6.0/ChkKnowledgeArrays.csproj.CoreCompileInputs.cache
+/Users/stevenkelly/Desktop/Coding Dojo/C#/ChkKnowledgeArrays/obj/Debug/net6.0/ChkKnowledgeArrays.dll
+/Users/stevenkelly/Desktop/Coding Dojo/C#/ChkKnowledgeArrays/obj/Debug/net6.0/refint/ChkKnowledgeArrays.dll
+/Users/stevenkelly/Desktop/Coding Dojo/C#/ChkKnowledgeArrays/obj/Debug/net6.0/ChkKnowledgeArrays.pdb
+/Users/stevenkelly/Desktop/Coding Dojo/C#/ChkKnowledgeArrays/obj/Debug/net6.0/ChkKnowledgeArrays.genruntimeconfig.cache
+/Users/stevenkelly/Desktop/Coding Dojo/C#/ChkKnowledgeArrays/obj/Debug/net6.0/ref/ChkKnowledgeArrays.dll
