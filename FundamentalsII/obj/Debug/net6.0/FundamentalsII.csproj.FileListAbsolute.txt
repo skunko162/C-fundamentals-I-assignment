@@ -1,0 +1,15 @@
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsII/bin/Debug/net6.0/FundamentalsII
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsII/bin/Debug/net6.0/FundamentalsII.deps.json
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsII/bin/Debug/net6.0/FundamentalsII.runtimeconfig.json
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsII/bin/Debug/net6.0/FundamentalsII.dll
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsII/bin/Debug/net6.0/FundamentalsII.pdb
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsII/obj/Debug/net6.0/FundamentalsII.csproj.AssemblyReference.cache
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsII/obj/Debug/net6.0/FundamentalsII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsII/obj/Debug/net6.0/FundamentalsII.AssemblyInfoInputs.cache
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsII/obj/Debug/net6.0/FundamentalsII.AssemblyInfo.cs
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsII/obj/Debug/net6.0/FundamentalsII.csproj.CoreCompileInputs.cache
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsII/obj/Debug/net6.0/FundamentalsII.dll
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsII/obj/Debug/net6.0/refint/FundamentalsII.dll
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsII/obj/Debug/net6.0/FundamentalsII.pdb
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsII/obj/Debug/net6.0/FundamentalsII.genruntimeconfig.cache
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/FundamentalsII/obj/Debug/net6.0/ref/FundamentalsII.dll
