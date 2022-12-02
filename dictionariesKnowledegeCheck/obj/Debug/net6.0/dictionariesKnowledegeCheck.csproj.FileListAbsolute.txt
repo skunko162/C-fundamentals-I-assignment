@@ -1,0 +1,15 @@
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/dictionariesKnowledegeCheck/bin/Debug/net6.0/dictionariesKnowledegeCheck
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/dictionariesKnowledegeCheck/bin/Debug/net6.0/dictionariesKnowledegeCheck.deps.json
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/dictionariesKnowledegeCheck/bin/Debug/net6.0/dictionariesKnowledegeCheck.runtimeconfig.json
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/dictionariesKnowledegeCheck/bin/Debug/net6.0/dictionariesKnowledegeCheck.dll
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/dictionariesKnowledegeCheck/bin/Debug/net6.0/dictionariesKnowledegeCheck.pdb
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/dictionariesKnowledegeCheck/obj/Debug/net6.0/dictionariesKnowledegeCheck.csproj.AssemblyReference.cache
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/dictionariesKnowledegeCheck/obj/Debug/net6.0/dictionariesKnowledegeCheck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/dictionariesKnowledegeCheck/obj/Debug/net6.0/dictionariesKnowledegeCheck.AssemblyInfoInputs.cache
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/dictionariesKnowledegeCheck/obj/Debug/net6.0/dictionariesKnowledegeCheck.AssemblyInfo.cs
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/dictionariesKnowledegeCheck/obj/Debug/net6.0/dictionariesKnowledegeCheck.csproj.CoreCompileInputs.cache
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/dictionariesKnowledegeCheck/obj/Debug/net6.0/dictionariesKnowledegeCheck.dll
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/dictionariesKnowledegeCheck/obj/Debug/net6.0/refint/dictionariesKnowledegeCheck.dll
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/dictionariesKnowledegeCheck/obj/Debug/net6.0/dictionariesKnowledegeCheck.pdb
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/dictionariesKnowledegeCheck/obj/Debug/net6.0/dictionariesKnowledegeCheck.genruntimeconfig.cache
+/Users/stevenkelly/Desktop/Coding Dojo/CSharp/dictionariesKnowledegeCheck/obj/Debug/net6.0/ref/dictionariesKnowledegeCheck.dll
