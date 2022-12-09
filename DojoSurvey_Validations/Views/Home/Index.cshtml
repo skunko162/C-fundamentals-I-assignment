@@ -1,0 +1,77 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model User
+<h1 class= "display-4">tell me about your Dojo!</h1>
+
+    <form asp-action = "Create" asp-controller="Home" method = "post">
+        <div class = "row"> 
+
+            <div class = "col-25">
+                <label asp-for="YourName">Your Name:</label>
+            </div>
+
+            <div class = "col-75">
+                <input asp-for="YourName">
+                <span asp-validation-for="YourName" class="text-danger"></span>
+            </div>
+            
+        </div>
+
+        <div class = "row">
+
+            <div class = "col-25">
+                <label asp-for="DojoLocation">Dojo Location</label>
+            </div>
+
+            <div class = "col-75">
+                <select asp-for="DojoLocation">
+                    <option selected disabled hidden>Please choose a location -------</option>
+                    <option value="SanJose">San Jose</option>
+                    <option value="Seattle">Seattle</option>
+                    <option value="Chicago">Chicago</option>
+                </select>
+                <span asp-validation-for="DojoLocation" class="text-danger"></span>
+            </div>
+
+        </div>
+
+        <div class = "row">
+
+            <div class = "col-25">
+                <label asp-for="FavoriteLang">Favorite Language:</label>
+            </div>
+
+            <div class ="col-75">
+                <select asp-for="FavoriteLang">
+                    <option selected disabled hidden>Please Choose a Language -------</option>
+                    <option value="C#">C#</option>
+                    <option value="Java">JAVA</option>
+                    <option value="Python">Python</option>
+                    <option value="Javascript">JavaScript</option>
+                </select>
+                <span asp-validation-for="FavoriteLang" class="text-danger"></span>
+            </div>
+
+        </div>
+
+        <div class = "row"> 
+            
+            <div class= "col-25">
+                <label asp-for = "Comments">Comment "optional":</label>
+            </div>
+
+            <div class = "col-75">
+                <textarea asp-for= "Comments" placeholder="Write something.." style="height:200px"></textarea>
+            </div>
+
+        </div>
+
+        <div>
+            <div class = "row">
+                <button>Submit</button>
+            </div>
+        </div>
+    </form>
+
+
