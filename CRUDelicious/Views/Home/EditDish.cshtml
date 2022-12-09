@@ -1,0 +1,43 @@
+@model Dish
+
+<div>
+<div class="text-center">
+    <h1 class="display-4">Edit Dish</h1>
+    <form asp-action= "UpdateDish" asp-controller="Home" method = "post" asp-route-DishId="@Model.DishId">
+        <div class= "mb-3">
+            <label asp-for="Name"></label>
+            <input asp-for ="Name" class= "form-control">
+            <span asp-validation-for= "Name" class= "text-danger"></span>
+        </div>
+        <div class= "mb-3">
+            <label asp-for= "Chef"></label>
+            <input asp-for = "Chef" class= "form-control">
+            <span asp-validation-for= "Chef" class= "text-danger"></span>
+        </div>
+        <div class= "mb-3">
+            <label asp-for="Tastiness"></label>
+            <select asp-for="Tastiness" class="form-control">
+                <option selected disabled hidden>Pleass select a choice-----</option>
+                <Option>1</Option>
+                <Option>2</Option>
+                <Option>3</Option>
+                <Option>4</Option>
+                <Option>5</Option>
+            </select>
+            <span asp-validation-for= "Tastiness" class="text-danger"></span>
+        </div>
+        <div class= "mb-3">
+            <label asp-for="Calories"></label>
+            <input asp-for ="Calories" class= "form-control">
+            <span asp-validation-for= "Calories" class="text-danger"></span>
+        </div>
+        <div class= "mb-3">
+            <label asp-for="Description"></label>
+            <textarea asp-for ="Description" placeholder="required.." style ="height=200px" class="form-control"></textarea>
+            <span asp-validation-for= "Description" class="text-danger"></span>
+        </div>
+        <input type="submit" value="Edit Dish" class="btn btn-primary m-3">
+
+    </form>
+
+</div>
