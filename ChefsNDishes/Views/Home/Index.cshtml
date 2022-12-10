@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model MyViewModel
+<div class="text-center">
+    <h1 class="display-4">Check out our Roster of Chefs!</h1>
+    <table class= "table table-stripped">
+        <thead class = "thead-dark">
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Age</th>
+                <th scope="col">Date of Birth</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(Chef c in Model.AllChefs)
+            {
+                <tr>
+                    <td>@c.FirstName @c.LastName</td>
+                    <td>@c.Age</td>
+                    <td>@c.DateOfBirth</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

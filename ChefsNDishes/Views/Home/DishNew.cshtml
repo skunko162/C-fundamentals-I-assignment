@@ -1,0 +1,44 @@
+@model Dish
+
+<div class="text-center d-flex justify-content-around">
+    <div class="flex-1 m-2">
+        <h2>Add a Dish</h2>
+        <Form asp-action= "CreateDish" asp-controller = "Home" method = "post" class= "form-striped">
+        <div class = "mb-3">
+            <Label asp-for= "NameOfDish" class = "form-label" >Dish Name</Label>
+            <input asp-for="NameOfDish" class = "form-control">
+            <span asp-validation-for="NameOfDish" class= "text-danger"></span>
+        </div>
+        <div class = "mb-3">
+            <Label asp-for= "NumOfCalories" class = "form-label" >Calories</Label>
+            <input asp-for="NumOfCalories" class = "form-control" value="0">
+            <span asp-validation-for="NumOfCalories" class= "text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="ChefId">Chef's Name</label>
+            <select class="form-control" asp-for="ChefId">
+                    <option selected disabled hidden>Please choose a Chef</option>
+                @foreach (Chef c in ViewBag.AllChefs)
+                {
+                    <option value="@c.ChefId">@c.FirstName @c.LastName</option>
+                }
+            </select>
+            <span asp-validation-for="ChefId" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Tastiness">Tastiness Rating</label>
+            <select class="form-control" asp-for=Tastiness>
+                <option selected disabled hidden>Please Choose a Rating</option>
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+            </select>
+            <span asp-validation-for="Tastiness" class="text-danger"></span>
+        </div>
+        <input type="submit" value="Add a Dish">
+
+    </Form>
+    </div>  
+</div>

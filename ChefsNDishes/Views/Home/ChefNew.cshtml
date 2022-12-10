@@ -1,0 +1,9 @@
+
+@model MyViewModel 
+
+<div class="text-center d-flex justify-content-around">
+    <div class="flex-1 m-2">
+        <h2>Add a Chef</h2>
+        @await Html.PartialAsync("_AddChef", Model.Chef)
+    </div>  
+</div>
